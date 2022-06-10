@@ -14,14 +14,25 @@ This new design allows the mod to work for the NEW 3ds XL.
 
 For more information visit [VERSIONGUIDE.md](/VERSIONGUIDE.md)
 
-# Where to Buy
-
-* USA: [Buy on Amazon](https://smile.amazon.com/dp/B08RN6LDVH) - [(Why Amazon?)](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/why-sell-on-amazon.md)
-* Any other Country: [Buy on Tindie](https://www.tindie.com/products/22543/) - (I will restock occasionally!)
 
 # PCB Version Guide
 
 Instructions for understanding the different files in /gerber [VERSIONGUIDE.md](/VERSIONGUIDE.md).
+
+# Compatibility
+
+This is designed for installation in any Nintendo NEW 3DS/XL.
+
+For the original 3ds XL mod, visit rorosaurus' page: [rorosaurus/3ds-xl-usb-c](https://github.com/rorosaurus/3ds-xl-usb-c)
+
+This mod is not compatible with: 2DS, New 2DS XL.
+
+This mod is not compatible with the original Nintendo 3DS. For the original 3DS, I recommend this mod by makho: [makhowastaken/3DS_C](https://github.com/makhowastaken/3DS_C/)
+
+# Where to Buy
+
+* USA: [Buy on Amazon](https://smile.amazon.com/dp/B08RN6LDVH) - [(Why Amazon?)](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/why-sell-on-amazon.md)
+* Any other Country: [Buy on Tindie](https://www.tindie.com/products/22543/) - (I will restock occasionally!)
 
 ## The truly universal USB-C dream is finally realized for your Nintendo 3DS XL!
 
@@ -33,13 +44,6 @@ My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB
 
 **No 3D-printed part is included**, but the file is available for you to print yourself, if you want.
 
-# Compatibility
-
-This is designed for installation in any Nintendo 3DS XL (SPR-001).
-
-This mod is not compatible with: 2DS, New 2DS XL, New 3DS, New 3DS XL.
-
-This mod is not compatible with the original Nintendo 3DS. For the original 3DS, I recommend this mod by makho: [makhowastaken/3DS_C](https://github.com/makhowastaken/3DS_C/)
 
 # Charge Speed
 
