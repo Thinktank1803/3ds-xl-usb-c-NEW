@@ -14,11 +14,6 @@ This new design allows the mod to work for the NEW 3ds XL.
 
 For more information visit [VERSIONGUIDE.md](/VERSIONGUIDE.md)
 
-
-# PCB Version Guide
-
-Instructions for understanding the different files in /gerber [VERSIONGUIDE.md](/VERSIONGUIDE.md).
-
 # Compatibility
 
 This is designed for installation in any Nintendo NEW 3DS/XL.
