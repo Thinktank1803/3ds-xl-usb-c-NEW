@@ -2,10 +2,26 @@
 
 **This mod requires some case trimming**, and I would recommend abandoning your charging dock contacts. More information available in the instructions page.
 
+# Changes for New 3ds XL/reasons for the fork
+
+![revision picture](/images/reason-for-revision.png)  
+
+The original PCB designed by rorosaurus doesn't fit the NEW 3ds xl as you can see in the picture.  
+
+![possible placement](/images/possible-placement.png)  
+
+This new design allows the mod to work for the NEW 3ds XL.  
+
+For more information visit [VERSIONGUIDE.md](/VERSIONGUIDE.md)
+
 # Where to Buy
 
 * USA: [Buy on Amazon](https://smile.amazon.com/dp/B08RN6LDVH) - [(Why Amazon?)](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/why-sell-on-amazon.md)
 * Any other Country: [Buy on Tindie](https://www.tindie.com/products/22543/) - (I will restock occasionally!)
+
+# PCB Version Guide
+
+Instructions for understanding the different files in /gerber [VERSIONGUIDE.md](/VERSIONGUIDE.md).
 
 ## The truly universal USB-C dream is finally realized for your Nintendo 3DS XL!
 
