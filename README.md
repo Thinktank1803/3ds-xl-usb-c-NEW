@@ -2,6 +2,28 @@
 
 **This mod requires some case trimming**, and I would recommend abandoning your charging dock contacts. More information available in the instructions page.
 
+# Changes for New 3ds XL/reasons for the fork
+
+![revision picture](/images/reason-for-revision.png)  
+
+The original PCB designed by rorosaurus doesn't fit the NEW 3ds xl as you can see in the picture.  
+
+![possible placement](/images/possible-placement.png)  
+
+This new design allows the mod to work for the NEW 3ds XL.  
+
+For more information visit [VERSIONGUIDE.md](/VERSIONGUIDE.md)
+
+# Compatibility
+
+This is designed for installation in any Nintendo NEW 3DS/XL.
+
+For the original 3ds XL mod, visit rorosaurus' page: [rorosaurus/3ds-xl-usb-c](https://github.com/rorosaurus/3ds-xl-usb-c)
+
+This mod is not compatible with: 2DS, New 2DS XL.
+
+This mod is not compatible with the original Nintendo 3DS. For the original 3DS, I recommend this mod by makho: [makhowastaken/3DS_C](https://github.com/makhowastaken/3DS_C/)
+
 # Where to Buy
 
 * USA: [Buy on Amazon](https://smile.amazon.com/dp/B08RN6LDVH) - [(Why Amazon?)](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/why-sell-on-amazon.md)
@@ -17,13 +39,6 @@ My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB
 
 **No 3D-printed part is included**, but the file is available for you to print yourself, if you want.
 
-# Compatibility
-
-This is designed for installation in any Nintendo 3DS XL (SPR-001).
-
-This mod is not compatible with: 2DS, New 2DS XL, New 3DS, New 3DS XL.
-
-This mod is not compatible with the original Nintendo 3DS. For the original 3DS, I recommend this mod by makho: [makhowastaken/3DS_C](https://github.com/makhowastaken/3DS_C/)
 
 # Charge Speed
 
